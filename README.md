@@ -1,6 +1,8 @@
 # Stump backend.
 ## Recieves requests from frontend and responds accordingly.
 
+The goals of Stump include providing a safe and on-topic space for people to discuss current events and politics.
+
 Stump is connected to an aws rds
 
 Password is removed.

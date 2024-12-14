@@ -1,7 +1,12 @@
-Stump backend.
-Stump is connected to an aws rds.
+# Stump backend.
+## Recieves requests from frontend and responds accordingly.
+
+Stump is connected to an aws rds
+
 Password is removed.
+
 Stumpdb table schemas: (use to replicate database)
+
 CREATE TABLE `users` (
   `user_id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(255) NOT NULL,
